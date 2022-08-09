@@ -11,3 +11,5 @@ I built this project using below `tech stack`
 > Here's the glimpse pic of the landing page
 
 ![project-08](./images/project-08.png)
+
+live-link : [web-design-landing-page](https://web-design-page-project-08.netlify.app/)
